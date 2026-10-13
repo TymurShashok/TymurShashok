@@ -23,10 +23,10 @@
 I write C++ that is **built, tested and shipped through CI** — not just code that runs on my machine.
 I like to understand what happens under the hood: rendering, file formats, memory, the OS console API.
 
-- 🔭 Looking for a **Junior C++ Developer** role (remote / on-site / relocation: [edit])
+- 🔭 Looking for a **Junior C++ Developer** role remote / on-site / hybrid
 - 🧪 I care about tests, clean structure and automated builds
-- 🌱 Currently learning: [edit — e.g. multithreading, STL algorithms, design patterns]
-- 🗣️ Languages: Ukrainian, Russian, English ([your level])
+- 🌱 Currently learning: OpenGL, Data Structures, Assembly
+- 🗣️ Languages: Ukrainian, Russian, English (B2)
 
 ---
 
