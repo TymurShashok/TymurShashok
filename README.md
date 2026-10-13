@@ -1,7 +1,4 @@
  <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=190&section=header&text=Tymur%20Shashok&fontSize=48&fontColor=F0F6FC&fontAlignY=38&desc=C%2B%2B%20DEVELOPER%20%7C%20BUILDING%20TOOLS%20%26%20SOFTWARE&descSize=13&descAlignY=60&descColor=8B949E" alt="Tymur Shashok — C++ Developer" />
-
 <a href="https://readme-typing-svg.demolab.com/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Turning+ideas+into+working+software.;Learning+by+building+real+projects.;C%2B%2B+%7C+Problem+Solving+%7C+Clean+Code" alt="Developer intro" />
 </a>
