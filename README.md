@@ -1,36 +1,40 @@
 # Hey, I'm Tymur 👋
 
-**C++ Software Engineer · Building tools & products**
+**Junior C++ Developer**
 
-I enjoy building software, exploring systems programming, and turning ideas into working products.
+I build practical software with C++ and enjoy exploring algorithms, application architecture, and developer tools.
 
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cmake,git,github,linux,visualstudio,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,cmake,visualstudio,git,github,linux&theme=dark" alt="Tech stack" />
 </p>
 
 ### Featured Projects
 
-**[Image2ASCII](https://github.com/TymurShashok/Image2ASCII)**
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/TymurShashok/Image2ASCII">Image2ASCII</a></h3>
+      <p>A Windows CLI tool that converts images into ASCII art, with RGB and monochrome output and configurable character sets.</p>
+      <sub>C++ · CMake · OpenCV · GoogleTest</sub>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/TymurShashok/terminal-graphic-editor">Terminal Graphic Editor</a></h3>
+      <p>A console-based drawing app with canvas tools, undo, save/load, themes, and 24-bit BMP export.</p>
+      <sub>C++ · Windows Console API · File I/O</sub>
+    </td>
+  </tr>
+</table>
 
-A C++ command-line tool that converts images into ASCII art.
+### Currently Focused On
 
-`C++` `CMake` `OpenCV` `GoogleTest`
-
-**[Terminal Graphic Editor](https://github.com/TymurShashok/terminal-graphic-editor)**
-
-A terminal-based graphics editor with drawing tools, undo functionality, and BMP export.
-
-`C++` `Algorithms` `File I/O`
-
-### GitHub Stats
-
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TymurShashok&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=58a6ff&rank_icon=github" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TymurShashok&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af" />
-</p>
+- Writing clean, maintainable C++
+- Testing and build automation with CMake and GitHub Actions
+- Strengthening software design and problem-solving skills
 
 ---
 
-*Always learning. Always building.*
+<p>
+  <sub>Always learning. Always building.</sub>
+</p>
