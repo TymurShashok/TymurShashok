@@ -10,8 +10,8 @@
 ![Location](https://img.shields.io/badge/Kyiv%2C%20Ukraine-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Role](https://img.shields.io/badge/Junior%20C%2B%2B%20Developer-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/timur-shashok-737062365/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/timurshashok/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Timursashok@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-58A6FF?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/TymurShashok/CV)
 
 </div>
