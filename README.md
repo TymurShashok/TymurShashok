@@ -109,8 +109,11 @@ Raster-style drawing editor inside the Windows console.
 
 <br/>
 
-- [edit — what you maintained / automated / fixed, with numbers if you have them]
-- [edit]
+- Provided comprehensive technical support, including hardware troubleshooting, printer maintenance, and component-level repairs.
+
+- Managed consumables replacement and cartridge refilling processes while maintaining high standards of print quality and equipment longevity.
+
+- Resolved end-user technical issues, ensuring minimal downtime and high satisfaction through effective hardware diagnostics and problem-solving.
 
 </details>
 
