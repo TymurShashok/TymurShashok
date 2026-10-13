@@ -66,7 +66,7 @@ Windows CLI app that turns images into ASCII art.
 - ⚙️ Configurable rendering, interactive terminal UI
 - ✅ GoogleTest + GitHub Actions CI
 
-**Hardest part:** [edit — one sentence]
+**Hardest part:** OpenCV and Video Optimizations
 
 `C++` `CMake` `OpenCV` `GoogleTest`
 
@@ -86,7 +86,7 @@ Raster-style drawing editor inside the Windows console.
 - 💾 Save/load canvas, 24-bit BMP export
 - 🌈 Configurable console themes
 
-**Hardest part:** [edit — one sentence]
+**Hardest part:** BMP output
 
 `C++` `Windows Console API` `File I/O`
 
